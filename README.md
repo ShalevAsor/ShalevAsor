@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shalev-asor-43067b1b1/)
-[![Gmail Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](shalevasor@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-shalevasor@gmail.com-informational?style=flat&logo=gmail&logoColor=red&color=0D76A8)]()
 
 
 
