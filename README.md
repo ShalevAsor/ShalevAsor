@@ -1,4 +1,4 @@
-### Hi everyone! my name is Shalev and i'm CS student from Israel 👋
+### Hi everyone! my name is Shalev and i'm CS student from Ariel 👋
 
 - 📫 How to reach me: 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shalev-asor-43067b1b1/)
