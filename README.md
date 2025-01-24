@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Shalev!
 I'm a **Computer Science and Mathematics** graduate specializing in **fullstack development** with a strong foundation in **problem-solving** and **algorithm design**. I'm passionate about creating engaging user interfaces and optimizing development processes.
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit-informational?style=flat&logo=vercel&logoColor=white&color=000000)](https://shalev-portfolio.vercel.app)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit-informational?style=flat&logo=vercel&logoColor=white&color=000000)](https://shalev-asor.vercel.app/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shalev-asor)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-shalevasor@gmail.com-informational?style=flat&logo=gmail&logoColor=red&color=0D76A8)](mailto:shalevasor@gmail.com)
 
