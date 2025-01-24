@@ -31,16 +31,12 @@ I'm a **Computer Science and Mathematics** graduate specializing in **fullstack 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![React Query](https://img.shields.io/badge/react--query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-%2322C55E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-
----
-## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShalevAsor&layout=compact)](https://github.com/ShalevAsor/github-readme-stats)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShalevAsor&show_icons=true&theme=tokyonight)
 
 ---
 ## 🌍 Connect with Me
