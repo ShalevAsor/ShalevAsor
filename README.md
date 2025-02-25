@@ -40,6 +40,6 @@ I'm a **Computer Science and Mathematics** graduate specializing in **fullstack 
 
 ---
 ## 🌍 Connect with Me
-- 🌐 Portfolio: [shalev-portfolio.vercel.app](https://shalev-portfolio.vercel.app)
+- 🌐 Portfolio: [shalev-portfolio.vercel.app](https://shalev-asor.vercel.app)
 - 💼 LinkedIn: [linkedin.com/in/shalev-asor](https://linkedin.com/in/shalev-asor)
 - 📧 Email: shalevasor@gmail.com
